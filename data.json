@@ -1,0 +1,125 @@
+{
+    "arreglos": [
+        {
+            "nombre": "1-Arreglo rosas 25 unidades",
+            "modelo": "Arreglo de pareja",
+            "img": "img/1-arreglo.png",
+            "precio": 49000
+        },
+        {
+            "nombre": "2-Arbol de girasoles",
+            "modelo": "Arreglo de felicitación",
+            "img": "img/2-arreglo.png",
+            "precio": 20000
+        },
+        {
+            "nombre": "3-Rosas en degradé",
+            "modelo": "Arreglo de felicitación",
+            "img": "img/3-arreglo.png",
+            "precio": 20000
+        },
+        {
+            "nombre": "4-Arreglo de mesa grande",
+            "modelo": "Arreglo de defunción",
+            "img": "img/4-arreglo.png",
+            "precio": 25000
+        },
+        {
+            "nombre": "5-Caja de bombones con rosas rosadas",
+            "modelo": "Arreglo de pareja",
+            "img": "img/5-arreglo.png",
+            "precio": 25000
+        },
+        {
+            "nombre": "6-Arreglo wood box",
+            "modelo": "Arreglo de felicitación",
+            "img": "img/6-arreglo.png",
+            "precio": 30000
+        },
+        {
+            "nombre": "7-Arreglo rosas blancas",
+            "modelo": "Arreglo de defunción",
+            "img": "img/7-arreglo.png",
+            "precio": 12000
+        },
+        {
+            "nombre": "8-Arreglo rosas rojas pequeño",
+            "modelo": "Arreglo de defunción",
+            "img": "img/8-arreglo.png",
+            "precio": 15000
+        },
+        {
+            "nombre": "9-Arreglo bombones con globos",
+            "modelo": "Arreglo de pareja",
+            "img": "img/9-arreglo.png",
+            "precio": 35000
+        },
+        {
+            "nombre": "10-Arreglo campestre de flores variadas",
+            "modelo": "Arreglo de felicitación",
+            "img": "img/10-arreglo.png",
+            "precio": 15000
+
+        },
+        {
+            "nombre": "11-Corazón con rosas y bombones",
+            "modelo": "Arreglo de pareja",
+            "img": "img/11-arreglo.png",
+            "precio": 30000
+
+        },
+        {
+            "nombre": "12-Arreglo rosas blancas mediano",
+            "modelo": "Arreglo de defunción",
+            "img": "img/12-arreglo.png",
+            "precio": 20000
+
+        },
+        {
+            "nombre": "13-Arbol de girasoles y rosas",
+            "modelo": "Arreglo de felicitación",
+            "img": "img/13-arreglo.png",
+            "precio": 35000
+
+        },
+        {
+            "nombre": "14-Rosas en degradé con globos",
+            "modelo": "Arreglo de felicitación",
+            "img": "img/14-arreglo.png",
+            "precio": 25000
+        },
+        {
+            "nombre": "15-Arreglo campestre",
+            "modelo": "Arreglo de felicitación",
+            "img": "img/15-arreglo.png",
+            "precio": 12000
+        },
+        {
+            "nombre": "16-Arreglo rosas y girasol",
+            "modelo": "Arreglo de felicitación",
+            "img": "img/16-arreglo.png",
+            "precio": 12000
+        },
+        {
+            "nombre": "17-Arreglo rosas blancas grande",
+            "modelo": "Arreglo de defunción",
+            "img": "img/17-arreglo.png",
+            "precio": 25000
+        },
+        {
+            "nombre": "18-Ramo de felicitación",
+            "modelo": "Arreglo de felicitación",
+            "img": "img/18-arreglo.png",
+            "precio": 18000
+        },
+        {
+            "nombre": "19-Arreglo rosas rojas y blancas",
+            "modelo": "Arreglo de defunción",
+            "img": "img/19-arreglo.png",
+            "precio": 20000
+        }
+
+
+
+    ]
+}
