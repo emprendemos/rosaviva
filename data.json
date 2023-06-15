@@ -1,16 +1,18 @@
 {
     "arreglos": [
         {
-            "nombre": "1-Arreglo rosas 25 unidades",
-            "modelo": "Arreglo de pareja",
+            "nombre": "1-Arreglo bolsa de regalo, día del padre",
+            "modelo": "Arreglo de felicitación",
             "img": "img/1-arreglo.png",
-            "precio": 49000
+            "precio": 10000
+
         },
         {
-            "nombre": "2-Arbol de girasoles",
+            "nombre": "2-Arreglo carreta, día del padre",
             "modelo": "Arreglo de felicitación",
             "img": "img/2-arreglo.png",
-            "precio": 20000
+            "precio": 15000
+
         },
         {
             "nombre": "3-Rosas en degradé",
@@ -113,9 +115,22 @@
             "precio": 18000
         },
         {
-            "nombre": "19-Arreglo rosas rojas y blancas",
-            "modelo": "Arreglo de defunción",
+            "nombre": "19-Arbol de girasoles",
+            "modelo": "Arreglo de felicitación",
             "img": "img/19-arreglo.png",
+            "precio": 20000
+
+        },
+        {
+            "nombre": "20-Arreglo rosas 25 unidades",
+            "modelo": "Arreglo de pareja",
+            "img": "img/20-arreglo.png",
+            "precio": 49000
+        },
+        {
+            "nombre": "21-Arreglo rosas rojas y blancas",
+            "modelo": "Arreglo de defunción",
+            "img": "img/21-arreglo.png",
             "precio": 20000
         }
 
