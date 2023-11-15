@@ -7,16 +7,16 @@
             "precio": 20000
         },
         {
-            "nombre": "2-Arreglo de mesa grande",
-            "modelo": "Arreglo de defunción",
+            "nombre": "2-Caja de bombones con rosas rosadas",
+            "modelo": "Arreglo de pareja",
             "img": "img/2-arreglo.png",
             "precio": 25000
         },
         {
-            "nombre": "3-Caja de bombones con rosas rosadas",
-            "modelo": "Arreglo de pareja",
+            "nombre": "3-Arreglo rosas azules en degradé",
+            "modelo": "Arreglo de felicitación",
             "img": "img/3-arreglo.png",
-            "precio": 25000
+            "precio": 20000
         },
         {
             "nombre": "4-Arreglo wood box",
@@ -25,16 +25,16 @@
             "precio": 30000
         },
         {
-            "nombre": "5-Arreglo rosas blancas",
-            "modelo": "Arreglo de defunción",
+            "nombre": "5-Ramo flores multicolor",
+            "modelo": "Arreglo de pareja",
             "img": "img/5-arreglo.png",
-            "precio": 12000
+            "precio": 20000
         },
         {
-            "nombre": "6-Arreglo rosas rojas pequeño",
-            "modelo": "Arreglo de defunción",
+            "nombre": "6-Arreglo rosas azules",
+            "modelo": "Arreglo de pareja",
             "img": "img/6-arreglo.png",
-            "precio": 15000
+            "precio": 25000
         },
         {
             "nombre": "7-Arreglo bombones con globos",
@@ -114,13 +114,23 @@
             "precio": 49000
         },
         {
-            "nombre": "19-Arreglo rosas rojas y blancas",
+            "nombre": "19-Arreglo de mesa grande",
             "modelo": "Arreglo de defunción",
             "img": "img/19-arreglo.png",
-            "precio": 20000
+            "precio": 25000
+        },
+        {
+            "nombre": "20-Arreglo rosas blancas",
+            "modelo": "Arreglo de defunción",
+            "img": "img/20-arreglo.png",
+            "precio": 12000
+        },
+        {
+            "nombre": "21-Arreglo rosas rojas pequeño",
+            "modelo": "Arreglo de defunción",
+            "img": "img/21-arreglo.png",
+            "precio": 15000
         }
-
-
 
     ]
 }
